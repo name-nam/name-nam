@@ -1,5 +1,5 @@
-## name-nam (ID:name-nam)
-Hi,I'm name-nam. __Happy?__
+## NaMaE (ID:name-nam)
+Hi,I'm NaMaE. __Happy?__
 
 ## Status
 <p align="left"> 
