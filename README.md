@@ -1,5 +1,12 @@
 ## NaMaE (ID:name-nam)
-Hi,I'm NaMaE. __Happy?__
+YouTuberをやっています"なまえ"といいます，
+動画で紹介したプログラムなどを公開していく予定です．
+
+My name is "NaMaE" and I am a Japanese YouTuber.
+I plan to publish the programs I introduce in my videos.
+
+__YouTube__ --> https://www.youtube.com/c/name0
+__Blog__ --> https://name-nam.hateblo.jp/
 
 ## Status
 <p align="left"> 
